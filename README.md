@@ -1,10 +1,9 @@
-[![MasterHead] (https://drive.google.com/file/d/182kcZB--brt8XfDnkL3zI6n2SEvrVNSE/view?usp=drivesdk)
+
 
 <h1 align="center">Hi 👋, I'm Mohit</h1>
 
 <h3 align="center">A passionate Data scientist Enthusiasts</h3>
 
-<img align="right" alt="coding" width="400" scr="https://www.google.com/search?q=coding+young+boy+cyberpunk+animation&tbm=isch&ved=2ahUKEwiCk8rhpbr-AhXUEbcAHRIGCx8Q2-cCegQIABAC&oq=coding+young+boy+cyberpunk+animation&gs_lcp=ChJtb2JpbGUtZ3dzLXdpei1pbWcQA1DpFliESGDqTmgBcAB4AIAB8AGIAeQTkgEFMC40LjiYAQCgAQHAAQE&sclient=mobile-gws-wiz-img&ei=QCZCZILzMdSj3LUPkoys-AE&bih=1971&biw=1128&client=ms-android-xiaomi-rev1#imgrc=kMl_mO5iGRMZIM&imgdii=bUeV41DLm3MyHM&lnspr=W251bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLG51bGxd">
 
 - 🌱 I’m currently learning **Data science &Web development**
 
