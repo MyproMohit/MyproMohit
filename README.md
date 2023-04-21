@@ -4,7 +4,7 @@
 
 <h3 align="center">A passionate Data scientist Enthusiasts</h3>
 
-<img align="right" alt="coding" width"400" scr="https://www.google.com/search?q=coding+young+boy+cyberpunk+animation&tbm=isch&ved=2ahUKEwiCk8rhpbr-AhXUEbcAHRIGCx8Q2-cCegQIABAC&oq=coding+young+boy+cyberpunk+animation&gs_lcp=ChJtb2JpbGUtZ3dzLXdpei1pbWcQA1DpFliESGDqTmgBcAB4AIAB8AGIAeQTkgEFMC40LjiYAQCgAQHAAQE&sclient=mobile-gws-wiz-img&ei=QCZCZILzMdSj3LUPkoys-AE&bih=1971&biw=1128&client=ms-android-xiaomi-rev1#imgrc=kMl_mO5iGRMZIM&imgdii=bUeV41DLm3MyHM&lnspr=W251bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLG51bGxd">
+<img align="right" alt="coding" width"400" scr="https://www.istockphoto.com/photo/male-programmer-working-on-desktop-computer-at-desk-in-office-in-dark-gm1167272927-321852444">
 
 - 🌱 I’m currently learning **Data science &Web development**
 
