@@ -1,5 +1,3 @@
-[![MasterHead] (https://www.canva.com/design/DAFgts_hSH4/03hsDHeix5OizDgSUZnluw/view?utm_content=DAFgts_hSH4&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)
-
 <h1 align="center">Hi 👋, I'm Mohit</h1>
 
 <h3 align="center">A passionate Data scientist Enthusiasts</h3>
